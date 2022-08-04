@@ -1,4 +1,0 @@
-sample,reads1
-DNAseq_2D8,/scratch/user/DNA-seq/2D8_lane7_sequence.fastq.gz
-DNAseq_Ep3,/scratch/user/DNA-seq/Ep3_lane7_sequence.fastq.gz
-DNAseq_TSC1,/scratch/user/DNA-seq/TSC1_lane7_sequence.fastq.gz
